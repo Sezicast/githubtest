@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Entry Level Cloud Engineer</title>
+  <style>
+    body {
+      background-color: #ffffff; /* White background */
+      color: #0000ff; /* Blue text */
+      font-family: Arial, sans-serif;
+    }
+
+    .logo {
+      text-align: center;
+    }
+
+    .description {
+      margin-top: 20px;
+      text-align: justify;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #0000ff;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #3333ff;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    <img src="logo.jpg" alt="Logo" width="200">
+  </div>
+
+  <h1 style="text-align: center">Charles is an entry level cloud engineer</h1>
+
+  <div class="description">
+    <p>An entry level cloud engineer is responsible for assisting in the design, implementation, and maintenance of cloud infrastructure. They work with cloud technologies such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP) to deploy and manage applications, handle data storage, and ensure security and scalability. They also collaborate with other team members to troubleshoot issues, optimize cloud resources, and support the development and deployment of cloud-based solutions.</p>
+  </div>
+
+  <div class="button-container" style="text-align: center">
+    <a class="button" href="#">Learn More</a>
+  </div>
+
+  <script>
+    // Add interactive functionality here using JavaScript
+  </script>
+</body>
+</html>
